@@ -7,6 +7,6 @@
 🔐 Captures brute-force login attempts\
 📋 Records attacker commands and sessions\
 📂 Logs malware downloads and file transfers\
-📊 Generates security logs for analysis
-🐧 Runs on Linux environments
-🛡️ Safe environment for studying cyber attacks
+📊 Generates security logs for analysis\
+🐧 Runs on Linux environments\
+🛡️ Safe environment for studying cyber attacks\
